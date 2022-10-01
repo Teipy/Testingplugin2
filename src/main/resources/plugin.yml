@@ -1,0 +1,4 @@
+name: Testingplugin2
+version: '${project.version}'
+main: kr.kro.teipy.testingplugin2.Testingplugin2
+api-version: 1.19
